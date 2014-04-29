@@ -1,9 +1,10 @@
 {
-  "name": "source",
-  "title": "source",
+  "name": "etymonline-search",
+  "title": "Online Etymology Dictionary Search",
   "id": "jid1-DBror1MqOcp9Jw",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "Searches the Online Etymology Dictionary for the selected text.",
+  "author": "Peter Beard (https://www.peterbeard.co/)",
+  "homepage": "https://github.com/PeterBeard/etymonline-search",
+  "license": "GPL v2.0 (https://www.gnu.org/licenses/gpl-2.0.html)",
+  "version": "0.1.0"
 }
